@@ -9,5 +9,5 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/denilson-moutinho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" height="30" width="60" /></a>
-<a href="maito:hussieiny2@gmail.com" target="blank"><img align="center" src="https://www.google.com//gmail/about/static-2.0/images/logo-gmail.png?fingerprint=c2eaf4aae389c3f885e97081bb197b97" alt="gmail" height="30" width="60" /></a>
+<a href="maito:hussieiny2@gmail.com" target="blank"><img align="center" src="https://www.google.com//gmail/about/static-2.0/images/logo-gmail.png?fingerprint=c2eaf4aae389c3f885e97081bb197b97" alt="Gmail" height="60" width="60" /></a>
 </p>

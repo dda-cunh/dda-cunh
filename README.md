@@ -1,7 +1,8 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&random=false&width=500&pause=2000&lines=👋 Hello my name is Denilson Moutinho" alt="Typing SVG">
+<br>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&random=false&width=500&pause=3000&lines=👋+Hello+my+name+is+Denilson+Moutinho">
 <br>
 <br>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&random=false&width=350&pause=1000&lines=🛠️+Currently+working+on:" alt="Typing SVG">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&random=false&width=350&pause=1500&lines=🛠️+Currently+working+on:">
 <p>
 	42 Project
 	[
@@ -12,9 +13,7 @@
 </p>
 <br>
 <br>
-<a href="https://git.io/typing-svg">
-	<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&random=false&width=280&lines=Languages+and+tools;I'm+familiar+with" alt="Typing SVG">
-</a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&random=false&width=280&pause=500&lines=Languages+and+tools;I'm+familiar+with:">
 <div align="left"> 
 	<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
 		<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="60" height="60"/> 

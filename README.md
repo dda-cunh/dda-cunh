@@ -3,8 +3,10 @@
 🛠️ Currently working on 42 Project [miniRT](https://github.com/dda-cunh/miniRT)
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: flex-start;">
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Languages and tools;I'm familiar with:&font=Fira%20Code&color=%23FFC0CC&center=true&width=280&height=50">
+<h3 align="left">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Languages and tools;+++++++&font=Fira%20Code&color=%2336BCF7FF&center=true&width=280&height=50">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=- - - - - - - - -&font=Fira%20Code&color=%2336BCF7FF&center=true&width=280&height=50">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=++++++;I'm familiar with:&font=Fira%20Code&color=%2336BCF7FF&center=true&width=280&height=50">
 </p>
     <p align="left"> 
       <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
@@ -52,9 +54,12 @@
     </div>
 </div>
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=You can reach me on:&font=Fira%20Code&color=%23FFC0CC&center=true&width=280&height=50">
-</p>
-<h3 align="left"></h3>
-<a href="https://linkedin.com/in/denilson-moutinho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" height="30" width="60" /></a>
-<a href="mailto:hussieiny2@gmail.com" target="blank"><img align="center" src="https://www.google.com//gmail/about/static-2.0/images/logo-gmail.png?fingerprint=c2eaf4aae389c3f885e97081bb197b97" alt="Gmail" height="60" width="60" /></a>
+<br>
+<br>
+<h3 align="left">
+	You can reach me on:
+</h3>
+<div>
+	<a href="https://linkedin.com/in/denilson-moutinho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" height="30" width="60" /></a>
+	<a href="mailto:hussieiny2@gmail.com" target="blank"><img align="center" src="https://www.google.com//gmail/about/static-2.0/images/logo-gmail.png?fingerprint=c2eaf4aae389c3f885e97081bb197b97" alt="Gmail" height="60" width="60" /></a>
+</div>

@@ -1,13 +1,13 @@
 
 <p>
 	👋
-	<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&random=false&width=500&pause=3000&lines=Hello+my+name+is+Denilson+Moutinho">
+	<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&random=false&width=500&pause=10000&lines=Hello+my+name+is+Denilson+Moutinho">
 </p>
 <br>
 <br>
 <p>
 	🛠️
-	<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&random=false&width=350&pause=1500&lines=Currently+working+on:">
+	<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&random=false&width=350&pause=10000&lines=Currently+working+on:">
 </p>
 <h3>
 	42 Project
@@ -20,7 +20,7 @@
 <br>
 <br>
 <p>
-	🎓<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&random=false&width=280&pause=500&lines=Languages+and+tools;I'm+familiar+with:">
+	🎓<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&random=false&width=280&pause=1000&lines=Languages+and+tools;I'm+familiar+with:">
 </p>
 
 <div align="left"> 

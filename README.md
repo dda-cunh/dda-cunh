@@ -9,5 +9,5 @@
 <a href="https://linkedin.com/in/denilson-moutinho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" height="30" width="60" /></a>
 <a href="mailto:hussieiny2@gmail.com" target="blank"><img align="center" src="https://www.google.com//gmail/about/static-2.0/images/logo-gmail.png?fingerprint=c2eaf4aae389c3f885e97081bb197b97" alt="Gmail" height="60" width="60" /></a>
 <p align="center">
-    <a href="https://github.com/drknzz"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dda-cunh&theme=dark&hide=html,css,cmake&layout=compact&langs_count=5&bg_color=101010&hide_title=true"></a>
+       <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dda-cunh&theme=dark&hide=html,css,cmake&layout=compact&langs_count=5&bg_color=101010&hide_title=true">
 </p>

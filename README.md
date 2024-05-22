@@ -3,14 +3,14 @@
 <br>
 <br>
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&random=false&width=350&pause=1500&lines=🛠️+Currently+working+on:">
-<p>
+<h3>
 	42 Project
 	[
 	<a href="https://github.com/dda-cunh/miniRT">
 		miniRT
 	</a>
 	]
-</p>
+</h3>
 <br>
 <br>
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&random=false&width=280&pause=500&lines=Languages+and+tools;I'm+familiar+with:">

@@ -1,21 +1,14 @@
-<h1 align="center">Hello my name is Denilson Moutinho 👋</h1>
+<a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&random=false&width=500&pause=2000&lines=👋 Hello my name is Denilson Moutinho" alt="Typing SVG">
+</a>
 
 🛠️ Currently working on 42 Project [miniRT](https://github.com/dda-cunh/miniRT)
-<br>
-<br>
 
-<div style="display: flex; align-items: left;">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&random=false&width=280&lines=Languages+and+tools;+++++++++++++++++" alt="Typing SVG">
-  </a>
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&random=false&width=280&lines=-+-+-+-+-+-+-+-+-+-+-;-+-+-+-+-+-+-+-+-" alt="Typing SVG">
-  </a>
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&random=false&width=280&lines=+++++++++++++++++;I'm+familiar+with" alt="Typing SVG">
-  </a>
-</div>
-</p>
+<br>
+<br>
+<a href="https://git.io/typing-svg">
+	<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&random=false&width=280&lines=Languages+and+tools;I'm+familiar+with" alt="Typing SVG">
+</a>
 <div align="left"> 
 	<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
 		<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="60" height="60"/> 

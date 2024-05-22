@@ -2,11 +2,13 @@
 
 🛠️ Currently working on 42 Project [miniRT](https://github.com/dda-cunh/miniRT)
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: flex-start;">
-<h3 align="left">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Languages and tools;+++++++&font=Fira%20Code&color=%2336BCF7FF&center=true&width=280&height=50">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=- - - - - - - - -&font=Fira%20Code&color=%2336BCF7FF&center=true&width=280&height=50">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=++++++;I'm familiar with:&font=Fira%20Code&color=%2336BCF7FF&center=true&width=280&height=50">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&random=false&width=280&lines=Languages+and+tools;++++++++++)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&random=false&width=280&lines=-+-+-+-+-+-+-+-+-)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=280&lines=++++++;I'm+familiar+with)](https://git.io/typing-svg)
+
 </p>
     <p align="left"> 
       <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
@@ -49,10 +51,9 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> 
       </a> 
     </p>
-    <div align="center">
-    <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dda-cunh&theme=dark&hide=html,css,cmake&layout=compact&langs_count=5&bg_color=101010&hide_title=true">
-    </div>
-</div>
+
+    <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dda-cunh&theme=dark&hide=html,css,cmake&layout=compact&langs_count=5&bg_color=101010&hide_title=true">
+
 
 <br>
 <br>
@@ -63,3 +64,4 @@
 	<a href="https://linkedin.com/in/denilson-moutinho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" height="30" width="60" /></a>
 	<a href="mailto:hussieiny2@gmail.com" target="blank"><img align="center" src="https://www.google.com//gmail/about/static-2.0/images/logo-gmail.png?fingerprint=c2eaf4aae389c3f885e97081bb197b97" alt="Gmail" height="60" width="60" /></a>
 </div>
+

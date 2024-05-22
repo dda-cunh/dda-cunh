@@ -7,7 +7,7 @@
 <br>
 <p>
 	🛠️
-	<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&random=false&width=350&pause=10000&lines=Currently+working+on:">
+	<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&random=false&width=350&pause=5000&lines=Currently+working+on:">
 </p>
 <h3>
 	42 Project

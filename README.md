@@ -3,11 +3,11 @@
 🛠️ Currently working on 42 Project [miniRT](https://github.com/dda-cunh/miniRT)
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&random=false&width=280&lines=Languages+and+tools;++++++++++)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&random=false&width=280&lines=Languages+and+tools;+++++++++++++++++)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&random=false&width=280&lines=-+-+-+-+-+-+-+-+-)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=280&lines=++++++;I'm+familiar+with)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=280&lines=+++++++++++++++++;I'm+familiar+with)](https://git.io/typing-svg)
 
 </p>
     <p align="left"> 

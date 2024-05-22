@@ -4,7 +4,7 @@
 <br>
 <br>
 
-<div style="display: flex; align-items: center;">
+<div style="display: flex; align-items: left;">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&random=false&width=280&lines=Languages+and+tools;+++++++++++++++++" alt="Typing SVG">
   </a>
@@ -57,10 +57,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> 
       </a> 
     </p>
-
     <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dda-cunh&theme=dark&hide=html,css,cmake&layout=compact&langs_count=5&bg_color=101010&hide_title=true">
-
-
 <br>
 <br>
 <h3 align="left">

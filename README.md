@@ -1,8 +1,14 @@
+
+<p>
+	👋
+	<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&random=false&width=500&pause=3000&lines=Hello+my+name+is+Denilson+Moutinho">
+</p>
 <br>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&random=false&width=500&pause=3000&lines=👋+Hello+my+name+is+Denilson+Moutinho">
 <br>
-<br>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&random=false&width=350&pause=1500&lines=🛠️+Currently+working+on:">
+<p>
+	🛠️
+	<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&random=false&width=350&pause=1500&lines=Currently+working+on:">
+</p>
 <h3>
 	42 Project
 	[
@@ -13,7 +19,10 @@
 </h3>
 <br>
 <br>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&random=false&width=280&pause=500&lines=Languages+and+tools;I'm+familiar+with:">
+<p>
+	🎓<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&random=false&width=280&pause=500&lines=Languages+and+tools;I'm+familiar+with:">
+</p>
+
 <div align="left"> 
 	<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
 		<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="60" height="60"/> 

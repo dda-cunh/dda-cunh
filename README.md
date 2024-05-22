@@ -1,11 +1,11 @@
-![_](https://github.com/dda-cunh/dda-cunh/blob/main/code_banner.png)
 <h1 align="center">Hello my name is Denilson Moutinho 👋</h1>
 
 🛠️ Currently working on 42 Project [miniRT](https://github.com/dda-cunh/miniRT)
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <div>
-    <h3 align="left">Languages and tools I'm familiar with:</h3>
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: flex-start;">
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Languages and tools;I'm familiar with:&font=Fira%20Code&color=%23FFC0CC&center=true&width=280&height=50">
+</p>
     <p align="left"> 
       <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="60" height="60"/> 
@@ -47,14 +47,14 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> 
       </a> 
     </p>
-  </div>
-  <div>
-    <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dda-cunh&theme=dark&hide=html,css,cmake&layout=compact&langs_count=5&bg_color=101010&hide_title=true">
-  </div>
+    <div align="center">
+    <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dda-cunh&theme=dark&hide=html,css,cmake&layout=compact&langs_count=5&bg_color=101010&hide_title=true">
+    </div>
 </div>
 
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dda-cunh&theme=dark&hide=html,css,cmake&layout=compact&langs_count=5&bg_color=101010&hide_title=true">
-
-<h3 align="left">You can reach me on:</h3>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=You can reach me on:&font=Fira%20Code&color=%23FFC0CC&center=true&width=280&height=50">
+</p>
+<h3 align="left"></h3>
 <a href="https://linkedin.com/in/denilson-moutinho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" height="30" width="60" /></a>
 <a href="mailto:hussieiny2@gmail.com" target="blank"><img align="center" src="https://www.google.com//gmail/about/static-2.0/images/logo-gmail.png?fingerprint=c2eaf4aae389c3f885e97081bb197b97" alt="Gmail" height="60" width="60" /></a>

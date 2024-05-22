@@ -1,9 +1,17 @@
+
 <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&random=false&width=500&pause=2000&lines=👋 Hello my name is Denilson Moutinho" alt="Typing SVG">
 </a>
-
-🛠️ Currently working on 42 Project [miniRT](https://github.com/dda-cunh/miniRT)
-
+<br>
+<a href="https://git.io/typing-svg">
+	<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&random=false&width=350&pause=1000&lines=🛠️+Currently+working+on:" alt="Typing SVG">
+</a>
+<p>
+	42 Project
+		[
+		<a href="https://github.com/dda-cunh/miniRT">miniRT</a>
+		]
+</p>
 <br>
 <br>
 <a href="https://git.io/typing-svg">

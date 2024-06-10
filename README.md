@@ -12,8 +12,8 @@
 <h3>
 	42 Project
 	[
-	<a href="https://github.com/dda-cunh/CPP-MODULE-06">
-		CPP-MODULE-06
+	<a href="https://github.com/dda-cunh/CPP-MODULE-07">
+		CPP-MODULE-07
 	</a>
 	]
 </h3>

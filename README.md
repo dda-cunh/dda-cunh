@@ -12,8 +12,8 @@
 <h3>
 	42 Project
 	[
-	<a href="https://github.com/dda-cunh/webserv">
-		webserv
+	<a href="https://github.com/dda-cunh/ft_transcendence">
+		ft_transcendence
 	</a>
 	]
 </h3>

@@ -10,10 +10,10 @@
 	<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&random=false&width=350&pause=5000&lines=Currently+working+on:">
 </p>
 <h3>
-	42 Project
+	Post grafuation project
 	[
-	<a href="https://github.com/dda-cunh/ft_transcendence">
-		ft_transcendence
+	<a href="https://github.com/dda-cunh/malloc">
+		Malloc
 	</a>
 	]
 </h3>

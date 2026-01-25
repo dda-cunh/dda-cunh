@@ -1,22 +1,20 @@
 
 <br>
 <br>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&random=false&width=280&pause=3000&lines=👋 Hello;👋 My+name+is+Denilson">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&random=false&width=280&pause=3000&lines=Hello;My+name+is+Denilson">
 <br>
 <br>
 
 <div>
 	<h3>
-		<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&random=false&width=300&pause=5000&lines=🛠️ Currently+working+on:" align="center">
+		<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&random=false&width=258&pause=5000&lines=Currently+working+on:" align="center">
 		Post graduation project [ <a href="https://github.com/dda-cunh/malloc">Malloc</a> ]
 	</h3>
 </div>
 
 <br>
 <br>
-<p>
-	<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&random=false&width=280&pause=1000&lines=🎓 Languages+and+tools;🎓 I'm+familiar+with:">
-</p>
+	<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&random=false&width=280&pause=1000&lines=Languages+and+tools;I'm+familiar+with:">
 
 <table align="center" border="0">
   <tr>

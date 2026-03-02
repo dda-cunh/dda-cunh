@@ -100,10 +100,6 @@
   </tr>
 </table>
 <br>
-<div align="center">
-	<img  width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dda-cunh&theme=dark&hide=html,css,cmake&layout=compact&langs_count=5&bg_color=101010&hide_title=true">
-</div>
-<br>
 <br>
 <h3 align="left">
 	You can reach me on:
